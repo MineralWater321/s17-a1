@@ -1,6 +1,7 @@
 // 3. Create an addStudent() function that will accept a name of the student and add it to the student array.
 
-studentList = ['John', 'Hane', 'John'];
+//studentList = ['John', 'Hane', 'John']; -> for test
+studentList = [];
 
 function addStudent(name){
 	studentList.push(name);
